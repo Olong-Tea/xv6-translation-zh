@@ -11,8 +11,7 @@ view?usp=drive_link, 2024.
 users/EWD/transcriptions/EWD01xx/EWD123.html, 1965.
 [^6] Maurice Herlihy and Nir Shavit. The Art of Multiprocessor Programming, Revised Reprint.
 2012.
-[^7] Brian W. Kernighan. The C Programming Language. Prentice Hall Professional Technical
-Reference, 2nd edition, 1988.
+[^7] Brian W. Kernighan. The C Programming Language. Prentice Hall Professional Technical Reference, 2nd edition, 1988.
 [^8] Gerwin Klein, Kevin Elphinstone, Gernot Heiser, June Andronick, David Cock, Philip Derrin,
 Dhammika Elkaduwe, Kai Engelhardt, Rafal Kolanski, Michael Norrish, Thomas Sewell,
 Harvey Tuch, and Simon Winwood. Sel4: Formal verification of an OS kernel. In Proceedings
