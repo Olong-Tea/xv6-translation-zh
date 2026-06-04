@@ -2,7 +2,7 @@
 
 * [序言与术语表](README.md)
 
-* [第一章：操作系统接口 (Operating system interfaces)](chapter1/interfaces.md)
+* [第一章：操作系统接口 (Operating system interfaces)](chapter1/operating_system_interfaces.md)
   * [1.1 进程与内存 (Processes and memory)](chapter1/processes_and_memory.md)
   * [1.2 I/O 与文件描述符 (I/O and File descriptors)](chapter1/io_and_file_descriptors.md)
   * [1.3 管道(Pipes)](chapter1/pipes.md)
